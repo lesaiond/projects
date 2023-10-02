@@ -38,9 +38,12 @@ nav .menu{
     gap: 10px;
 }
 
+nav a{
+    font-weight: 600;
+}
+
 a{
     color: #fff;
-    font-weight: 600;
     text-decoration: none;
 }
 
