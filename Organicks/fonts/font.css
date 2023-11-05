@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Roboto;
+    font-weight: 700;
+    src: url(./Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: Roboto;
+    font-weight: 500;
+    src: url(./Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: Roboto;
+    font-weight: 400;
+    src: url(./Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 400;
+    src: url(./OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 600;
+    src: url(./OpenSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 700;
+    src: url(./OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: Yellowtail;
+    src: url(./Yellowtail-Regular.ttf);
+}
